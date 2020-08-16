@@ -1,4 +1,6 @@
 # Eureka-Client
+This sample is a part of a big project with Spring Boot which contains load balancing with Zuul.
+I just want to show how to connect to Eureka as a client.
 
 # Initial Setup
 We need to set up Eureka server/client .
